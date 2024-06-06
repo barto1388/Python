@@ -1,0 +1,9 @@
+GRA "KÓŁKO I KRZYŻYK"
+
+1 wyznaczyć dwóch graczy (podaj imię)
+2 wyznaczyć kółko i krzyżyk jako zmienne
+3 ustalić jak odbywa się zmiana tury
+4 ustalic pola jako tablicę lub listę(?)
+5 ustalić warunki zwycięstwa poprzez usunięcie danej trójki (rzędu) - (czyli możliwe kombinacje pól, które kończą grę)
+6 ustalić usuwanie elementów z tablicy po oznaczeniu danego elementu (przez kółko lub krzyżyk)
+7 jesli wygrana nastąpi w 3 ruchach to wyświetlić informację ("jesteś zajebisty!"
